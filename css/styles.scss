@@ -6,28 +6,28 @@
   font-family: 'Inconsolata';
   src: url('../assets/fonts/static/Inconsolata-Regular.ttf') format('truetype');
   font-weight: 400;
-  font-style: normal;
+  font-style: Regular;
 }
 
 @font-face {
   font-family: 'Inconsolata';
   src: url('../assets/fonts/static/Inconsolata-Medium.ttf') format('truetype');
   font-weight: 500;
-  font-style: normal;
+  font-style: Medium;
 }
 
 @font-face {
   font-family: 'Inconsolata';
   src: url('../assets/fonts/static/Inconsolata-Bold.ttf') format('truetype');
   font-weight: 700;
-  font-style: normal;
+  font-style: Bold;
 }
 
 @font-face {
   font-family: 'Inconsolata';
   src: url('../assets/fonts/static/Inconsolata-ExtraBold.ttf') format('truetype');
   font-weight: 800;
-  font-style: normal;
+  font-style: ExtraBold;
 }
 
 // Font Families
@@ -44,7 +44,7 @@ $dark: hsl(251, 65%, 3%);
 $bg-hover: hsla(0, 0%, 100%, 0.329);
 $dark-gray: hsla(0, 0%, 7%, 0.185);
 $dark-violet: hsl(283, 51%, 48%);
-$grayish-blue: hsl(228, 45%, 44%);
+$grayish-blue: hsl(249, 52%, 21%);
 $primary-color: $white;
 $secondary-color: hsla(0, 0%, 100%, 0.137);
 $accent-color: #4299e1;
@@ -223,7 +223,10 @@ form {
     }
     .generate {
         background-color: $red;
+        font-size: $font-lg;
+        font-weight: 500;
         padding: 15px;
+        color: $grayish-blue;
         border: 0;
         border-radius: 10px;
         &:hover {
