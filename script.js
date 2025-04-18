@@ -184,7 +184,6 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('attendeeName').textContent = name;
       document.getElementById('getuser').textContent = github;
   
-      alert('Ticket generated successfully!');
       ticketPreview.style.display = 'flex';
       formSection.style.display = 'none';
     }

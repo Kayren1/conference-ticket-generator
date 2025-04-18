@@ -136,7 +136,7 @@ The project was built using:
 
 - Website - [Kayren](https://www.your-site.com)
 - Frontend Mentor - [@Kayren1](https://www.frontendmentor.io/profile/Kayren1)
-- Twitter - [@Kayren1](https://www.twitter.com/Kayren1)
+- GitHub - [@Kayren1](https://github.com/Kayren1)
 
 ## Acknowledgments
 
