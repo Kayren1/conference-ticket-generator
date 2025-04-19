@@ -15,6 +15,7 @@ This is a solution to the [Conference Ticket Generator Challenge on Frontend Men
   - [Useful Resources](#useful-resources)
 - [Questions and Answers](#questions-and-answers)
 - [Author](#author)
+- [Solution](#solution)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -38,7 +39,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the project](./assets/images/screenshot.jpg)
+![Screenshot of the project](./preview.jpeg)
 
 ### Links
 
@@ -137,6 +138,9 @@ The project was built using:
 - Website - [Kayren !under development!](https://www.your-site.com)
 - Frontend Mentor - [@Kayren1](https://www.frontendmentor.io/profile/Kayren1)
 - GitHub - [@Kayren1](https://github.com/Kayren1)
+
+## Solution
+- https://conference-ticket-generator-form.netlify.app/
 
 ## Acknowledgments
 
