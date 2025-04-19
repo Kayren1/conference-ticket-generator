@@ -15,7 +15,6 @@ This is a solution to the [Conference Ticket Generator Challenge on Frontend Men
   - [Useful Resources](#useful-resources)
 - [Questions and Answers](#questions-and-answers)
 - [Author](#author)
-- [Solution](#solution)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -43,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL**: [GitHub Repository](https://github.com/Kayren1/spork.github.io.git)
-- **Live Site URL**: [Live Demo](https://kayren1.github.io/spork.github.io/)
+- **Solution URL**: [GitHub Repository](https://github.com/Kayren1/conference-ticket-generator)
+- **Live Site URL**: [Live Demo](- https://conference-ticket-generator-form.netlify.app/)
 
 ---
 
@@ -138,9 +137,6 @@ The project was built using:
 - Website - [Kayren !under development!](https://www.your-site.com)
 - Frontend Mentor - [@Kayren1](https://www.frontendmentor.io/profile/Kayren1)
 - GitHub - [@Kayren1](https://github.com/Kayren1)
-
-## Solution
-- https://conference-ticket-generator-form.netlify.app/
 
 ## Acknowledgments
 
